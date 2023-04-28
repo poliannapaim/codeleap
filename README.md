@@ -1,3 +1,7 @@
+## If you get an security error on Sandbox (failed to read the 'localStorage'), please disable the "block third-party cookies and site data" checkbox in the Content Settings.[https://www.chromium.org/for-testers/bug-reporting-guidelines/uncaught-securityerror-failed-to-read-the-localstorage-property-from-window-access-is-denied-for-this-document/]
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

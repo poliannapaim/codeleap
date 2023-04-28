@@ -5,8 +5,6 @@ import DeletePost from './deletePost';
 export default function FetchPosts() {
     const [username, setUsername] = useState(null);
     const [posts, setPosts] = useState(null);
-    const [showModalEdit, setShowModalEdit] = useState(false);
-    const [showModalDelete, setShowModalDelete] = useState(false);
 
     useEffect(() => {
         if (localStorage.getItem('username')) {

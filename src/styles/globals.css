@@ -25,3 +25,15 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+@media screen and (min-width: 1400px) {
+  .modal {
+    width: 100vw;
+  }
+}
+
+@media screen and (min-width: 1600px) {
+  .modal {
+    width: 30vw;
+  }
+}
